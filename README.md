@@ -1,6 +1,6 @@
-# setyashop
+# SETYASHOP
  Company Profile
-
+ 
 ### INCLUDE ###
 - Backend
 - Frontend
